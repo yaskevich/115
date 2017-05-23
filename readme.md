@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 I'm not happy about data sources: they have a lot of evident mistakes and don't contain actual data on every street, despite second site is an official source (or must be?).
 
-Currently we have *63543* tickets,*60408* were attributed to district, other failed: either they are in Belarusian / in transliteration, or contain errors or their addresses are really complicated descriptions of some places.
+Currently we have **63543** tickets,**60408** were attributed to district, other failed: either they are in Belarusian / in transliteration, or contain errors or their addresses are really complicated descriptions of some places.
 
-I made simple visualisation of the data in D3.js, there it is:
+I made **[simple visualisation](http://projects.yaskevich.com/115/)** of the data in D3.js, there is a screenshot:
 ![d3 visualization of 115-bel tickets](https://raw.githubusercontent.com/yaskevich/115/master/115-tickets.png)
