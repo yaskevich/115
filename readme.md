@@ -3,8 +3,13 @@
 Basic stuff: relating addresses from the tickets to Minsk city districts via checking them through publicly available street lists.
 
 ## Getting Started
+Original dataset is from [OpenData.BY](https://opendata.by/dataset/1383).
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* *good.txt* – attributed data (tab-separated)
+* *ambig.txt* – items which are ambiguous, because either they don't have a type of object (street or avenue, kind of), and there are several objects with the name like this, or the street has building related to different city districts and I don't have enough data to attribute it to any of them.
+* *notfound.txt* – stuff that failed to be attributed and there is no guesses, mostly the reason it's not in Russian.  There is a **need** to process Belarusian as well, but sources I used are Russian-only (which is, by the way, very bad, because one of the sources is the site of local administration – and it's neither actuall, nor bilingual).
+* *notparsed.txt* – stuff is mostly like previous one, but even more differs from the content of sources.
+* *data.csv* – list of processing of *good.txt*, formatted like this: “city district” – “amount of tickets”.
 
 ## Data sources
 
@@ -15,7 +20,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 I'm not happy about data sources: they have a lot of evident mistakes and don't contain actual data on every street, despite second site is an official source (or must be?).
 
-Currently we have **63543** tickets,**60408** were attributed to district, other failed: either they are in Belarusian / in transliteration, or contain errors or their addresses are really complicated descriptions of some places.
+Currently we have **63543** tickets, **60408** were attributed to district, other failed: either they are in Belarusian / in transliteration, or contain errors or their addresses are really complicated descriptions of some places.
 
-I made **[simple visualization](http://projects.yaskevich.com/115/)** of the data in D3.js, there is a screenshot:
+I made **[simple visualization](http://projects.yaskevich.com/115/)** of the data in D3.js.
+There is a screenshot:
+
+
 ![d3 visualization of 115-bel tickets](https://raw.githubusercontent.com/yaskevich/115/master/115-tickets.png)
