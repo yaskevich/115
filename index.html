@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+	  <link rel="stylesheet" href="d3tip.css"> 
+	  <title>Распределение заявок на 115·бел по районам Минска</title>
+<style>
+
+.arc text {
+  font: 12px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+body{
+background:lightyellow;
+font-family: 'Arial', sans-serif;
+}
+
+.bar {
+  fill: silver;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis--x path {
+  display: none;
+}
+h1{
+	text-align:center;
+}
+div.tiptop{
+	padding-top:5px;
+}
+svg{
+	display: block; 
+	margin: auto;
+}
+</style>
+<h1>Распределение заявок на 115·бел по районам Минска</h1>
+<svg class="pie" width="1360" height="500"></svg>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="d3tip.js"></script>
+<script src="d3scription.js"></script>
+<script>
+
+
+
+
+d3.csv("data.csv", function(d) {
+  d.qty = +d.qty;
+  return d;
+}, function(error, data) {
+  if (error) throw error;
+  
+	tip = d3.tip().attr('class', 'd3-tip')	
+	.direction('e')
+	//.offset([40, 0])
+	.html(function(d) { 
+	//"<strong>Frequency:</strong> ;
+		return "<div class='tiptop' style='color:orange'>" + d.district + "</div><div class='tiptop'>"+ d.qty +" (" +d3.format(".0%")(d.qty/allsum)+")</div>"; 
+	});
+	
+	var tipFactory = d3scription(function(d) { 
+	// return d.desc; 
+	return "<div class='' style='color:navy'>" + d.data.district + "</div><div class=''>"+ d.data.qty +" (" +d3.format(".0%")(d.data.qty/allsum)+")</div>";
+	});
+
+	// tip2 = d3.tip().attr('class', 'd3-tip')	
+	// // .direction('e')
+	// //.offset([40, 0])
+	// .html(function(d) { 
+	// //"<strong>Frequency:</strong> ;
+		// return "<div class='tiptop' style='color:orange'>" + d.data.district + "</div><div class='tiptop'>"+ d.data.qty +" (" +d3.format(".0%")(d.data.qty/allsum)+")</div>"; 
+	// });
+
+  var svg = d3.select("svg.pie"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height"),
+    radius = Math.min(width, height) / 2,
+    g = svg.append("g").attr("transform", "translate(" + 300 + "," + height / 2 + ")");
+	var bos_pal  = ["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"];
+	var goo_pal = ["#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477", "#66aa00", "#b82e2e", "#316395", "#994499", "#22aa99", "#aaaa11", "#6633cc", "#e67300", "#8b0707", "#651067", "#329262", "#5574a6", "#3b3eac"];
+var color = d3.scaleOrdinal(goo_pal);
+
+
+svg.call(tip);
+// svg.call(tip2);
+
+var tipshn = tipFactory()
+    .element(svg);
+
+
+var pie = d3.pie()
+    .sort(null)
+    .value(function(d) { return d.qty; });
+
+var path = d3.arc()
+    .outerRadius(radius - 10)
+    .innerRadius(0);
+
+var label = d3.arc()
+    .outerRadius(radius - 40)
+    .innerRadius(radius - 70);
+  
+  
+  
+  var arc = g.selectAll(".arc")
+    .data(pie(data))
+    .enter()	
+	.append("g")
+	.attr("class", "arc");
+
+  arc.append("path")
+
+      .attr("d", path)
+		.on('mouseover', tipshn.show)
+		.on('mouseout', tipshn.hide)
+
+	  .transition()
+		.duration(200)
+		.delay(function (d, i) {
+			return i * 150;
+		})
+      .attr("fill", function(d) { return color(d.data.district); }); 
+      
+
+  arc.append("text")
+      .attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
+      .attr("dy", "0.35em")
+      .text(function(d) { return d.data.district; })
+	  .attr("fill", "white");
+	  ///////////////////////////////////////////////
+	  
+	 height = 430;
+	var x = d3.scaleBand().rangeRound([0, 300]).padding(0.1),
+		y = d3.scaleLinear().rangeRound([height, 0]);
+
+		
+	
+	var	z = d3.scaleBand().rangeRound([0, 300]).padding(0.1);
+	var g = svg.append("g")
+		.attr("transform", "translate(" + 800 + "," + 20 + ")");
+
+	data = data.sort(function(a, b) { return b.qty - a.qty; });
+	  x.domain(data.map(function(d) { return d.district; }));
+	  //x.domain(data.sort(function(a, b) { return b.qty - a.qty; }.map(function(d) { return d.district; })));
+	  z.domain(data.map(function(d) { return d.qty; }));
+	  
+	  y.domain([0, d3.max(data, function(d) { return d.qty; })]);
+
+	  var allsum = d3.sum(data, d => d.qty);
+	   
+	  var xAxis = d3.axisBottom(x).tickFormat(function (d){
+		  //console.log(d);
+		  return d.substring(0,5);});
+		  
+	  var xAxis2 = d3.axisBottom(z).tickFormat(function (d){		  
+		  return d;});
+		  
+	  var xAxis3 = d3.axisBottom(z).tickFormat( d =>  d3.format(".0%")(d/allsum));
+	  
+	  g.append("g")
+		  .attr("class", "axis axis--x")
+		  .attr("transform", "translate(0," + height + ")")
+		  .call(xAxis);
+
+		  g.append("g")
+		  .attr("class", "axis axis--x")
+		  .attr("transform", "translate(0," + (height+20) + ")")
+		  .call(xAxis3);
+		  
+		  // g.append("g")
+		  // .attr("class", "axis axis--x")
+		  // .attr("transform", "translate(0," + (height+40) + ")")
+		  // .call(xAxis2);
+
+	  g.append("g")
+		  .attr("class", "axis axis--y")
+		  .call(d3.axisLeft(y).ticks(10, "s"))
+		.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .attr("y", 6)
+		  .attr("dy", "0.71em")
+		  .attr("text-anchor", "end")
+		  .text("qty");
+
+		  
+		  
+	  g.selectAll(".bar")
+		.data(data)
+		.enter().append("rect")		
+			.attr("class", "bar")		  
+			.on('mouseover', tip.show)
+			.on('mouseout', tip.hide)
+			.attr("x", function(d) { return x(d.district); })
+			.attr("width", x.bandwidth())		  		  
+			.attr("height", height)
+			.transition().duration(200).delay(function (d, i) { return i * 200;})
+			.attr("height", function(d) { return height - y(d.qty); })
+			.attr("y", function(d) { return y(d.qty); });
+	  
+});
+</script>
