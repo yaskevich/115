@@ -1,0 +1,458 @@
+3657	5-ты Сморгаўскі завулак
+8841	Lenin St
+7665	2-гі Тапаграфічны завулак
+9507	Ulitsa Rumiantseva 16
+9535	Centralny Rajon
+8556	Ploshcha Svabody 10
+11342	вулiца Ракаўская 15
+12879	Unnamed Rd
+12527	вулiца Кальварыйская 39
+11059	1-шы завулак Металістаў
+10465	1-шы завулак Металістаў
+11845	вулiца Панамарова 6
+12626	вулiца Жудро 13
+12759	10
+16838	Chyhunachnaya Vulitsa 23
+16675	2-Кольцо
+16491	вулiца Жудро 17/1
+16492	вулiца Жудро 17/1
+15887	вулiца Карла Маркса 17
+16169	вулiца Ракаўская 20
+16509	. Проспект Рокоссовского.   125. Подъезд 2. Этаж 5
+13984	вулiца Карла Маркса 29
+16734	вулiца Жудро 17/1
+16730	вулiца Жудро 17/1
+16731	вулiца Жудро 17/1
+16732	вулiца Жудро 17/1
+16733	вулiца Жудро 17/1
+15436	вулiца Кедышкі 16
+14856	вулiца Максіма Багдановіча 133
+13249	Kors-Sablina St D5
+16695	Unnamed Rd
+15719	вулiца Максіма Багдановіча 64/2
+15124	вулiца Максіма Багдановіча 135
+16721	вулiца Жудро 17/1
+15016	Vulitsa Lyashchynskaha 7 подъезд  7
+16564	вулiца Жудро 17/1
+14312	вулiца Жудро 11
+15578	Vulitsa Kuybyshava 67/2
+16170	вулiца Ракаўская 20
+14035	вулiца Шафарнянская 2
+15216	вулiца Максіма Багдановіча 53
+15214	вулiца Максіма Багдановіча 56
+15215	вулiца Максіма Багдановіча 52
+16097	Praspyekt Dzyarzhynskaha 60
+17333	вулiца Жудро 17/1
+16976	вулiца Жудро 17/1
+15658	вулiца Максіма Багдановіча 145/2
+16995	вулiца Жудро 17/1
+17266	вулiца Герасіменкі 22
+14113	2-Кольцо
+16043	2-Кольцо
+18858	вулiца Жудро 11
+21177	Vulitsa Panamarenki 32
+18143	Vulitsa Kuybyshava 67/2
+21250	вулiца Акадэмічная 13
+18765	вулiца Жудро 9
+18767	вулiца Жудро 9
+20270	вулiца Жудро 11
+19299	вулiца Жудро 19
+19029	2-Кольцо
+19803	Vulitsa Kulman 9
+18969	2-Кольцо
+18966	вулiца Жудро 17/1
+17570	Unnamed Rd
+20847	вулiца Жудро 17/1
+20112	вулiца Кедышкі 16
+18696	вулiца Мiхася Лынькова 17
+18034	Vulitsa Kuybyshava 34
+19300	вулiца Жудро 21
+19301	вулiца Жудро 17/2
+19842	Unnamed Rd
+18518	Vulitsa Nyamiha 40
+19511	вулiца Жудро 17/1
+20495	Vankovicha St 32-34
+21040	вулiца Жудро 17/1
+19753	2-Землямерная вуліца
+17719	вулiца Кісялева 14
+20687	вулiца Жудро 11
+20220	Vulitsa Zakharava 40
+17474	вулiца Жудро 17/1
+17476	вулiца Жудро 17/1
+20697	вулiца Жудро 17/1
+19898	вулiца Жудро 17/1
+18860	вулiца Жудро 11
+18591	вулiца Жудро 17/2
+25067	vulica Bieruta 6/3
+24656	praspiekt Dziarzynskaha 55
+25123	vulica Burdziejnaha 37
+24770	zavulak Kazlova 20-22
+24109	vulica Prytyckaha 128
+23043	Uralski zavulak 11 2й подъезд
+22646	vulica Varanianskaha 52
+24427	Vielazavodskaja vulica 5
+25550	5 подъезд 3 этаж Воронянского 52,
+24389	Michajlauski zavulak 4
+22821	Uralski zavulak 11
+23246	vulica Dzianisauskaja 39
+22831	vulica Jakuba Kolasa 33
+24021	vulica Maksima Bahdanovica 139A
+22636	Unnamed Rd
+22294	vulica Panamarenki 32
+22296	vulica Panamarenki 32
+25369	vulica Varanianskaha 52
+25029	navukovaja 2 minsk
+24425	vulica Nachimava 8
+24349	vulica Chmialieuskaha 33
+23963	vulica Mahiliouskaja 36
+21943	praspiekt Dziarzynskaha 57
+24064	vulica Hrusauskaja 91
+24316	vulica Slavinskaha 27
+24065	vulica Smirnova 21
+24315	vulica Krupskaj 2 или 6А
+25331	vulica Kasmanautau 48
+26330	vulica Labanka 59
+23090	Zienitny zavulak
+22432	vulica Liaukova 15
+23157	vulica Prytyckaha 128
+24429	Vielazavodskaja vulica 1
+24428	Vielazavodskaja vulica 1
+22645	vulica Varanianskaha 25
+22069	vulica Prytyckaha 132-140
+24774	vulica Prytyckaha 97
+24776	vulica Mahiliouskaja 36
+22219	vulica Labanka 14
+27283	vulica Labanka 22
+26802	zavulak Ciaplicny
+29439	vulica Mahiliouskaja 36
+28745	Staravilyenskaya Vulitsa 129
+28983	vulica Kirava 18
+27179	vulica Hrycauca 3 2й подъезд
+30096	Praspiekt Niezalieznasci 40
+28644	vulica Holubieva 14
+28647	vulica Holubieva 14
+28643	vulica Holubieva 14
+26544	vulica Uladzislava Syrakomli 24
+26545	vulica Rozy Liuksiemburh 165
+27879	vulica Slabadskaja 105
+30423	vulica Starazouskaja 8
+30424	вулiца Жудро 17/1
+28394	vulica Labanka 1
+28869	Maskouskaja vulica 1
+30013	vulica Maksima Bahdanovica 135
+28380	praspiekt Puskina 54
+28381	praspiekt Puskina 56
+26661	praspiekt Pieramozcau 123
+27457	Partyzanski praspiekt 32-2
+28065	Partyzanski praspiekt 30-32
+28064	Partyzanski praspiekt 32-2
+28066	Partyzanski praspiekt 30-32
+28284	1-шы Рыжскі завулак
+29929	2пер Багратиона 19
+29440	vulica Slabadskaja 105
+28293	vulica Kasmanautau 34
+30243	praspiekt Puskina 56
+27302	vulica Labanka 38
+29884	Zienitny zavulak
+29560	Lahojski trakt 1
+27681	vulica Labanka 22
+30519	vulica Jakubouskaha 54
+27319	vulica Jasienina 31/1
+27917	vulica Kozyrauskaja 16
+28453	vulica Prytyckaha 136
+28951	vulica Jakubava 58
+28583	vulica Holubieva 14
+27672	vulica Labanka 22
+28746	vulica Maksima Bahdanovica 91
+26788	vulica Majakouskaha 14
+29041	vulica Zacharava 17
+28927	vulica Kalvaryjskaja 5
+26432	vulica Kiedyski 16
+30587	vulica Karalia 26
+30235	vulica Kiedyski 16
+30262	vulica Bieruta 18/2
+30234	vulica Kiedyski 16
+28737	zavulak Ciaplicny
+28640	vulica Holubieva 14 10 подъезд
+29239	zavulak Jakuba Kolasa 2
+27422	Staravilyenskaya Vulitsa
+26777	vulica Akademika Fiodarava 11/1
+27180	vulica Hrycauca 3 2й подъезд
+28379	zavulak Talstoha 12
+27565	vulica Viasiolkavaja 8/1
+27423	vulica Jasienina 31/1
+27755	vulica Malinina 30
+31125	Бакинская ул.   16 кв. 70
+31235	vulica Vankovica 53-55
+34370	praspiekt haziety Zviazda 19
+34427	vulica Hierojau sto dvaccataj dyvizii 6
+32598	vulica Kasmanautau 40/2
+33186	vulica Jakubouskaha 54 1й подъезд
+33187	vulica Jakubouskaha 54 1й подъезд
+30988	vulica Kozyrauskaja 14б
+30987	vulica Kozyrauskaja 10
+30986	vulica Kozyrauskaja 16
+31102	vulica Siamionava
+31103	vulica Kozyrauskaja 14б
+32662	vulica Mahiliouskaja 36
+32112	vulica Maksima Bahdanovica 135
+30995	vulica Kalinouskaha 40/4
+32136	praspiekt Haziety Prauda 20
+31441	vulica Jakuba Kolasa 29а
+31782	vulica Starazouskaja 8
+33382	vulica Zudro 22
+33384	vulica Zudro 22
+33385	vulica Zudro 22
+33386	vulica Zudro 22
+33035	1-Землямерная вуліца 4
+35018	vulica Cyrvonaja 21
+31616	praspiekt Haziety Prauda 44
+32171	vulica Ihnatouskaha 1
+33387	vulica Sierdzica 13/3
+33925	vulica Prusynskich 11 3 подъезд
+33383	vulica Zudro 22
+33265	vulica Lozynskaja 5
+33264	Praspiekt Niezalieznasci 181
+31055	vulica Hrycauca 3 второй подъезд
+34447	vulica Paliavaja 10
+35123	vulica Zudro 22
+30799	вулiца Жудро 17/1
+31133	Uralski zavulak 11 второй подъезд
+31222	vulica Vankovica 53-55
+41170	vulica Ramanauskaja Slabada 20
+41686	praspiekt Pieramozcau 123
+39807	vulica Zudro 22
+41270	вулiца Жудро 17/1
+39658	zavulak Ciaplicny
+37452	vulica Karalia 6-8
+35865	vulica Liesi Ukrainki 6/1
+35473	2-гі Брагінскі завулак
+40146	vulica Iljanskaja 4
+41952	vulica Miastrauskaja 20
+41440	vulica Jakubava 16
+40718	vulica Filimonava 47а
+42388	vulica Jasienina 29
+42387	vulica Hromava 14
+39796	Praspiekt Niezalieznasci 60
+38082	vulica Zalataja Horka 2
+40898	Chevryakova Street 4
+37015	вулiца Берасцянская 9-67
+42926	vulica Kasmanautau 32
+41197	vulica Prytyckaha 126
+40804	vulica Charkauskaja 16
+35565	vulica Parnikovaja
+42857	Partyzanski praspiekt 32/2
+44249	vulica Jasienina 19
+47215	вулiца Якуба Коласа 6
+47504	vulica Valadzko 24 3-подьезд
+44934	vulica Hrycauca 3-18 2й подъезд
+46016	vulica Kiedyski 16
+44250	Praspiekt Niezalieznasci 60
+43456	1-шы Кальцавы праезд
+46461	praspiekt Rakasouskaha 33
+45090	вулiца Жудро 17/1
+45088	вулiца Жудро 17/1
+44226	vulica Kamsamolskaja 16
+45416	Uralski zavulak 11 2й подъезд
+45089	вулiца Жудро 17/1
+43232	praspiekt Dziarzynskaha 1
+46041	vulica Holubieva 14а
+45628	vulica Valadzko 24 3-подьезд
+46233	вулiца Маякоўскага 14
+46020	Uralski zavulak 11
+46070	vulica Kupryjanava 13
+45294	vulica Ihnatouskaha 1
+47480	vulica Trascianieckaja 3
+45328	vulica Valhahradskaja 3
+47479	Partyzanski praspiekt 32/1
+47478	Partyzanski praspiekt 30/3
+44952	vulica Lamanosava 8
+47271	zavulak Braniavy 6
+44768	vulica Miastrauskaja 20
+46896	vulica Surhanava 64-66
+45372	Partyzanski praspiekt 32/3
+45373	Partyzanski praspiekt 40
+47856	Partyzanski praspiekt 32/1
+47921	vulica Cyrvonaja 21
+45548	вулiца Берасцянская 9
+44850	praspiekt Dziarzynskaha 119
+45731	просп.  &quot;Звязда&quot;  48 подьезд 8
+46926	zavulak Talstoha 12
+45773	vulica Aranskaja
+46832	vulica Slabadskaja 95
+46848	Praspiekt Niezalieznasci 46б
+46022	vulica Miastrauskaja 20
+44069	vulica Jakuba Kolasa 30
+44066	praspiekt Puskina 56
+48175	vulica Liascynskaha 25-27
+46038	vulica Holubieva 14б
+46039	vulica Holubieva 14б
+46037	vulica Holubieva 14а
+45073	vulica Suhajeva 13/2
+47752	Partyzanski praspiekt 32/1
+48953	vulica Mahiliouskaja 36
+50670	вулiца Жудро 17/1
+51074	vulica Miastrauskaja 20
+51075	Chevryakova Street 4
+52175	praspiekt Rakasouskaha 41
+48934	Partyzanski praspiekt 32/1
+51431	vulica Liesi Ukrainki 6/1
+48808	vulica Mahnitnaja
+48393	Partyzanski praspiekt 32/1
+50480	Partyzanski praspiekt 32/2
+50747	vulica Klary Cetkin 4
+50921	vulica Zacharava 40
+50583	вулiца Жудро 17/1
+49063	Partyzanski praspiekt 30/3
+49806	vulica Zacharava 40
+49807	vulica Zacharava 40
+48741	vulica Prusynskich 11 3й подъезд 83кв
+48477	zavulak Braniavy 6
+50716	vulica Jasienina 6
+50913	vulica Niescierava 82
+49630	vulica Jasienina 6
+51183	vulica Valadzko 24 3-подьезд
+48972	vulica Kisialiova 2
+49594	praspiekt Haziety Prauda 3а
+48403	vulica Iljanskaja 4
+50739	Partyzanski praspiekt 32/1
+55760	vulica Bielskaha 27
+52649	vulica Zacharava 40
+53605	
+53973	vulica Zylunovica 10
+54743	vulica Mahiliouskaja 36
+52513	praspiekt Puskina 22
+56314	Partyzanski praspiekt 32/1
+55486	vulica Prytyckaha 102
+53852	vulica Zacharava 40
+53185	vulica Prusynskich 11 3й подъезд 83кв
+54211	vulica Karatkievica 9-11
+52961	vulica Hareckaha 23
+52543	vulica Liesi Ukrainki 6/1
+55752	вулiца Маякоўскага 14
+56182	вулiца Жудро 17/1
+54056	vulica Prytyckaha 142
+55728	vulica Zacharava 40
+55545	vulica Kiedyski 21
+52512	praspiekt Puskina 22
+56376	vulica Litaraturnaja 22
+53845	vulica Jakuba Kolasa 61/1
+53847	vulica Kuncauscyna 29
+54454	vulica Prytyckaha 126 107
+52677	vulica Varanianskaha 50/3
+55924	vulica Staravilienskaja 97
+57029	Partyzanski praspiekt 69
+55763	вулiца Жудро 17/1
+55148	vulica Mahiliouskaja 36
+53715	vulica Kirava 51
+54714	vulica Sialickaha 77
+55285	vulica Kiedyski 16
+56852	vulica Kirava 51
+54545	vulica Zudro 22
+54542	vulica Zudro 22
+54438	praspiekt Pieramozcau 95
+60987	vulica Bieruta 6/1
+58697	vulica Jakuba Kolasa 21
+59311	vulica Filimonava 47а
+59541	praspiekt Niezalieznasci 31а
+61257	vulica Bieruta 8
+60782	vulica Lamanosava 8
+60473	praspiekt Puskina 70а
+60470	zavulak Vajskovy 13
+57429	vulica Carviakova 4
+61247	vulica Bieruta 22/1
+58811	zavulak Braniavy 9
+58874	vulica Hikaly 9 vulica Platonova 39
+61264	vulica Akademika Fiodarava 19
+61312	praspiekt Niezalieznasci 21
+57740	vulica Varanianskaha 52
+61416	vulica Labanka 32
+60097	vulica Zacharava 42
+60098	zavulak Braniavy 6
+60099	zavulak Braniavy 1
+59529	vulica Hikaly 7
+60175	vulica Bieruta 6/1
+60606	vulica Jakubava 30
+61417	vulica Adzincova 97
+59449	vulica Filimonava 47а
+60379	vulica Kazinca 6
+57454	praspiekt Niezalieznasci 2-91
+58965	vulica Zacharava 40
+60100	zavulak Vajskovy 3
+60101	vulica Rumiancava 1
+60297	vulica Zacharava 40
+57468	vulica Vasniacova 1
+58466	vulica Jakuba Kolasa 4 6
+58715	vulica Kirava 51
+62886	vulica Maksima Bahdanovica 133
+65886	vulica Bieruta 6/1
+62632	vulica Landara 74
+67787	vulica Miastrauskaja 20
+61942	vulica Mahiliouskaja 36
+65768	vulica Miastrauskaja 20
+67045	vulica Haradzieckaja 5
+64271	vulica Prytyckaha 136
+64272	vulica Prytyckaha 140
+62672	vulica Stachanauskaja 27
+67911	vulica Kastrycnickaja 10
+61514	praspiekt Niezalieznasci 20
+63448	vulica Slabadskaja 151
+66168	praspiekt Niezalieznasci 131/2
+66417	vulica Krapotkina 96-104
+62926	vulica Jana Cacota 11
+61882	vulica Zacharava 40
+65484	vulica Dziekabrystau 21
+65481	Treciaja vulica Scorsa 9
+65482	3-вуліца Шчорса 8
+66639	vulica Bielskaha 10
+61660	zavulak Zienitny
+67991	vulісa Akadеmіka Kuprеvіca 1/2
+62570	zavulak Ciaplicny
+62573	vulica Pietrusia Brouki 2
+62456	vulica Kujbysava 61/3
+62536	vulica Jana Cacota 11
+67347	vulica Bieruta 16/1
+62893	vulica Kamsamolskaja 25
+62138	praspiekt Pieramozcau 9
+67795	praspiekt Maserava 2
+63240	vulica Jakuba Kolasa 49
+62113	praspiekt Dziarzynskaha 11
+61495	vulica Maksima Bahdanovica 17
+62320	Lahojski trakt 4
+61913	vulica Alseuskaha 49
+67524	
+66928	zavulak Braniavy 4-6
+66265	vulica Slabadskaja 130а
+62487	vulica Kalcova 3
+66247	vulica Jakubava 6
+63451	vulica Slabadskaja 127
+63452	vulica Kasmanautau 36
+62640	vulica Jakubouskaha 32
+63693	vulica Adajeuskaha 73
+65326	vulica Hamarnika 16
+66891	Vieladarozka
+62238	3-ці Земляробчы завулак
+61659	zavulak Zienitny
+61657	zavulak Zienitny
+65442	vulica Zacharava 40
+66588	vulica Hrusauskaja 116
+61670	vulica Jakubouskaha 40
+63987	Partyzanski praspiekt 30/3
+65344	vulica Zacharava 40
+65755	vulica Majakouskaha 99
+62569	zavulak Ciaplicny
+67506	vulica Kamunistycnaja 10
+63396	1-шы Кальцавы праезд
+66832	vulica Maksima Bahdanovica 66
+68473	zavulak Vajskovy 8
+68506	vulica Surhanava 64
+68505	vulica Surhanava 66
+68503	vulica Surhanava 64
+68500	vulica Surhanava 64
+68094	zavulak Ciaplicny
+68095	zavulak Ciaplicny
+68169	vulica Prytyckaha 132
+68159	vulica Bieruta 6/1
+68158	vulica Bieruta 6/1
+68444	vulica Parnikovaja 24
+68419	praspiekt Niezalieznasci 153/1
